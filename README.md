@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andre-h07
 - 👀 I like music
-- 🎶 I'm sportsman
+- 🏋 I'm sportsman
 - 🖥️ I want to be programmer
 
 
