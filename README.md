@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andre-h07
-- 👀 I’m like music
-- 🎶 I’m like Kpop
+- 👀 I like music
+- 🎶 I like Kpop
 - 🖥️ I want to be programmer
 
 
